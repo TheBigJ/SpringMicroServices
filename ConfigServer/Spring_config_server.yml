@@ -1,0 +1,11 @@
+# lucky.yml
+---
+spring:
+  profiles: east
+lucky-word: Clover  
+
+---
+
+spring:
+  profiles: west
+lucky-word: Rabbit's Foot  
